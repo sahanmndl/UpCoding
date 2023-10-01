@@ -24,7 +24,7 @@ You can start by cloning this repository.
 
 - Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 - Clone your fork down to your local machine
-- `git clone https://github.com/your-username/PayGauge.git`
+- `git clone https://github.com/your-username/UpCoding.git`
 - Create a branch
 - `git checkout -b branch-name`
 - Make your changes (choose from any task below)
