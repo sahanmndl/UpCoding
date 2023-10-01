@@ -16,7 +16,7 @@ You can start by cloning this repository.
 
 - Go to your project's root folder and run `npm install` or `expo install` (if you are using expo).
 - If you are using Xcode 12.5 or higher got to /ios and execute `pod install --`repo-update`
-- Run `npm run ios` or `npm run android` or `expo start` (if you are using expo) to start your application!
+- Run `npm run ios` or `npm run android` or `npx expo start` (if you are using expo) to start your application!
 
 (Using yarn: `yarn ios` or `yarn android`)
 
